@@ -1,13 +1,17 @@
 const Employee = require("../Lib/Employee");
 //Test for creaitng a new employee
 test ("Can create a new employee.", () =>{
-const employeeSample = new Employee (name);
+const employeeSample = new Employee ();
 expect (typeof(employeeSample)).toBe("object");
 
 })
 
 /*Test for empoloyee name */
-//const name = "James";
+test ("Testing the name.", () =>{
+const name = "James";
+const employeeSample = new Employee(name)
+expect (typeof(employeeSample)).toBe("object");
+})
 
 /*Test for empoloyee id */
 //const name = "James";
