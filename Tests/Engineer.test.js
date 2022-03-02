@@ -1,3 +1,4 @@
+const { test } = require("picomatch");
 const Engineer = require ("../Lib/Enginer");
 
 //Test for creating a github
@@ -15,5 +16,8 @@ expect (employeeSample.getGithub ()). toBe(testingGithub);
 })
 
 //Testing role
-
-
+test("Testing role" , () => {
+    const returnValue = "Engineer";
+    const employeeInstance = new Engineer("James", 2, "jamesljenks@gmail.com", "JamesLJenks");
+    expect(employeeInstance.getRole()).toBe(returnValue);
+});
