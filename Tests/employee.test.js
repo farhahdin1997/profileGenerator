@@ -8,14 +8,14 @@ expect (typeof(employeeSample)).toBe("object");
 
 /*Test for employee name */
 test ("Testing the name.", () =>{
-const name = "James";
+const name = "petter";
 const employeeSample = new Employee(name)
 expect (typeof(employeeSample)).toBe("object");
 })
 
 /*Test for employee ID */
 test("Testing ID", ()=>{
-  const name = "James";
+  const name = "petter";
   const employeeSample = new Employee (name);
   expect (employeeSample.name).toBe (name);
   
@@ -23,8 +23,8 @@ test("Testing ID", ()=>{
 
 // Test for email
 test("Can test email through getEmail method.", () => {
-    const testEmail = "jamesljenks@gmail.com";
-    const employeeInstance = new Employee("James", 2, testEmail);
+    const testEmail = "petter123@gmail.com";
+    const employeeInstance = new Employee("petter", 2, testEmail);
     expect(employeeInstance.getEmail()).toBe(testEmail);
 })
 
