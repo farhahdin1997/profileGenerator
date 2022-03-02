@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/farhahdin1997/profileGenerator.git"
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/farhahdin1997/profileGenerator/issues"
   },
-  "homepage": "https://github.com/farhahdin1997/profileGenerator#readme"
+  "homepage": "https://github.com/farhahdin1997/profileGenerator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
