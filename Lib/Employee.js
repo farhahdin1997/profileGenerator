@@ -23,3 +23,4 @@ getRole() {
 }
 
 }
+module.exports = Employee;
