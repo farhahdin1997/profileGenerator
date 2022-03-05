@@ -1,4 +1,4 @@
-const Manager = require("./lib/Manager.js");
+const Manager = require("./lib/.manager.js");
 const Engineer = require("./lib/Engineer.js");
 const Intern = require("./lib/Intern.js");
 const inquirer = require("inquirer");
@@ -173,4 +173,3 @@ runApp();
 
 
 
-}
