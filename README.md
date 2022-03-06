@@ -29,7 +29,9 @@ Bellow are is a walk through of my application and a screenshot of the outcome
 
  ```md
 ![Walk through of the application](Assets/demo2.webm)   
-https://github.com/farhahdin1997/profileGenerator/issues/1#issue-1160590649
+
+<a href="https://github.com/farhahdin1997/profileGenerator/issues/1#issue-1160590649" target="_blank">Introduction</a>
+
 ```
 ## Tests
 
