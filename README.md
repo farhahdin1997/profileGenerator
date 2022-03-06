@@ -26,9 +26,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Walkthrough
 
 Bellow are is a walk through of my application and a screenshot of the outcome
-
-
-```
 ## Tests
 
 I have implemented tests for my application and bellow is run through of the tests working and how to run them.
