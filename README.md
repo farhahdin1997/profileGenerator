@@ -38,4 +38,4 @@ Bellow are is a walk through of my application and a screenshot of the outcome
 
 I have implemented tests for my application and bellow is run through of the tests working and how to run them.
 
-![Testing demo](assets/demo1.webm)
+![Testing demo](.Assets/demo1.webm)
