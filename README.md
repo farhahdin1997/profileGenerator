@@ -28,8 +28,8 @@ SO THAT I have quick access to their emails and GitHub profiles
 Bellow are is a walk through of my application and a screenshot of the outcome
 
  ```md
-![alt text](Assets/demo2.webm)   
-![alt text](Assets/screenshot.pdf) 
+![Walk through of the application](Assets/demo2.webm)   
+![Screenshot of the application](Assets/screenshot.pdf) 
 ```
 ## Tests
 
