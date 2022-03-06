@@ -27,7 +27,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 Bellow are is a walk through of my application and a screenshot of the outcome
 
-![Untitled_ Mar 6, 2022 11_24 AM](https://user-images.githubusercontent.com/81389441/156923592-df4c230c-7947-4989-b61d-a8a2c89e7e7f.gif)
+![Untitled_ Mar 6, 2022 12_45 PM](https://user-images.githubusercontent.com/81389441/156923884-150ebdd4-1178-4937-b2cb-511cdcaa9052.gif)
 
 
 ## Test
