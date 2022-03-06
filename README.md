@@ -4,7 +4,7 @@
 This application is a Nodejs command line application, that gathers data about members of a software engineering team, then provides an HTML webpage with summaries for each individual. Testing is an important part as it makes the code maintainable, therefore i added some tests to ensure this.
 ## Table of Contents
 - [User Story](#user-story)
-- [Walkthrough](#walkthrough-video)
+- [walkthrough](#walkthrough-video)
 - [Installation](#installation)
 - [Tests](#tests)
 
