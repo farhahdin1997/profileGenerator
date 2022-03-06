@@ -27,15 +27,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 Bellow are is a walk through of my application and a screenshot of the outcome
 
- ```md
-![Walk through of the application](Assets/demo2.webm)   
-
-
-<img width="615" alt="finalScreenshot" src="https://github.com/farhahdin1997/profileGenerator/files/8192485/screenshot.pdf">
 
 ```
 ## Tests
 
 I have implemented tests for my application and bellow is run through of the tests working and how to run them.
 
-![Testing demo](./Assets/demo1.webm)
+
