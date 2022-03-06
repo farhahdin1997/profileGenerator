@@ -27,7 +27,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 Bellow are is a walk through of my application and a screenshot of the outcome
 
-![Untitled_ Mar 6, 2022 11_24 AM (1)](https://user-images.githubusercontent.com/81389441/156923412-d05def32-15aa-4e44-975f-c9b7b2f54208.gif">
+
 
 ## Test
 I have implemented tests for my application and bellow is run through of the tests working and how to run them.
