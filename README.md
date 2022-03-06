@@ -30,6 +30,7 @@ Bellow are is a walk through of my application and a screenshot of the outcome
 
 I have implemented tests for my application and bellow is run through of the tests working and how to run them.
 
-![Tests](./assets/Untitled_ Mar 6, 2022 11_20 AM.gif)
+
+![Untitled_ Mar 6, 2022 11_20 AM](https://user-images.githubusercontent.com/81389441/156922975-da0a3539-523d-45e8-b112-722cb447dbb4.gif)
 
 
