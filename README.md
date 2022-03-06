@@ -30,7 +30,8 @@ Bellow are is a walk through of my application and a screenshot of the outcome
  ```md
 ![Walk through of the application](Assets/demo2.webm)   
 
-<a href="https://github.com/farhahdin1997/profileGenerator/issues/1#issue-1160590649" target="_blank">Introduction</a>
+[screenshot.pdf](https://github.com/farhahdin1997/profileGenerator/files/8192485/screenshot.pdf)
+
 
 ```
 ## Tests
