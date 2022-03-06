@@ -2,9 +2,9 @@
 
 ## Description
 This application is a Nodejs command line application, that gathers data about members of a software engineering team, then provides an HTML webpage with summaries for each individual. Testing is an important part as it makes the code maintainable, therefore i added some tests to ensure this.
+[Output](https://github.com/farhahdin1997/profileGenerator/files/8192646/screenshot.pdf)
 
 
-<img width="855" alt="Untitled 6" src="https://github.com/farhahdin1997/profileGenerator/files/8192585/screenshot.pdf">
 
 ## Table of Contents
 - [User Story](#user-story)
