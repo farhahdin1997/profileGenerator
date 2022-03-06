@@ -30,8 +30,8 @@ Bellow are is a walk through of my application and a screenshot of the outcome
  ```md
 ![Walk through of the application](Assets/demo2.webm)   
 
-[screenshot.pdf](https://github.com/farhahdin1997/profileGenerator/files/8192485/screenshot.pdf)
 
+<img width="615" alt="finalScreenshot" src="https://github.com/farhahdin1997/profileGenerator/files/8192485/screenshot.pdf">
 
 ```
 ## Tests
